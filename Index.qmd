@@ -1,5 +1,5 @@
 ---
-title: "Curso R"
+$$title: "Curso R"
 author: "Einstein Sanchez"
 format: html
 ---
