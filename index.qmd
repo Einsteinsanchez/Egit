@@ -41,7 +41,5 @@ str(outdesign)
 book<-outdesign$book 
 book
 
-
-
 ```
 
